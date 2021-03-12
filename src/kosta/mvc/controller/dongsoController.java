@@ -2,6 +2,6 @@ package kosta.mvc.controller;
 
 public class dongsoController {
 	public void test() {
-		System.out.println("ë™ì†Œê°€ ì¶”ê°€í–ˆì–´ìš”...");
+		System.out.println("µ¿¼Ò°¡ Ãß°¡Çß¾î¿ä...");
 	}
 }
