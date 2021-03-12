@@ -2,6 +2,12 @@ package kosta.mvc.controller;
 
 public class HelloController {
 	public void aa() {
-		System.out.println("Çï·ÎÄÁÆ®·Ñ·¯");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Æ®ï¿½Ñ·ï¿½");
+	}
+	public void dongso() {
+		System.out.println("ì¤‘ë†€ì´ ë˜ê¸° ìœ„í•œ ì½”ë“œ....");
+	}
+	public void bb() {
+		
 	}
 }
