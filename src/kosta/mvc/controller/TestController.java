@@ -4,4 +4,7 @@ public class TestController {
 	public void insert() {
 		System.out.println("¾È³ç?");
 	}
+	public void select() {
+		System.out.println("³ª´Â ¼¿·ºÆ®....");
+	}
 }
