@@ -2,9 +2,12 @@ package kosta.mvc.controller;
 
 public class TestController {
 	public void insert() {
-		System.out.println("¾È³ç?");
+		System.out.println("ï¿½È³ï¿½?");
 	}
 	public void select() {
-		System.out.println("³ª´Â ¼¿·ºÆ®....");
+		System.out.println("ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®....");
+	}
+	public void aa() {
+		System.out.println("ë™ì†Œê°€ ì¶”ê°€í•¨...");
 	}
 }
